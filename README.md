@@ -1,6 +1,8 @@
 # BrightnessHotKey
 Binding alt+function buttons to change screen brightness
 
+!! ONLY DOWNLOAD AND RUN .EXE FILES UNLESS YOU WANT TO CHANGE THE CODEING !!
+
 # In versions 1 (ahk & exe):
 brightness up = alt + f10
 
